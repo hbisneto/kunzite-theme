@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Teams Theme (Dark Atom Core)",
+	"name": "TeamsLike Theme (Dark Atom Core)",
 	"include": "./tokens-dark.json",
 	"tokenColors": [
 		{

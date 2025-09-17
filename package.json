@@ -3,7 +3,7 @@
     "displayName":"%displayName%",
     "description":"%description%",
     "categories":["Themes"],
-    "version":"1.0.3",
+    "version":"1.1.0.0",
     "publisher":"BisnetoInc",
     "icon": "assets/icon.png",
     "license":"MIT",
@@ -18,26 +18,26 @@
         "themes":
         [
             {
-                "id":"Teams (Dark)",
+                "id":"TeamsLike (Dark)",
                 "label":"%TeamsDark%",
                 "uiTheme":"vs-dark",
                 "path":"./themes/Dark/teams-theme-dark.json"
             },
             {
-                "id":"Teams (Light)",
+                "id":"TeamsLike (Light)",
                 "label":"%TeamsLight%",
                 "uiTheme":"vs",
                 "path":"./themes/Light/teams-theme-light.json"
             },
 
             {
-                "id":"Teams (Dark Atom Core)",
+                "id":"TeamsLike (Dark Atom Core)",
                 "label":"%TeamsDarkAtom%",
                 "uiTheme":"vs-dark",
                 "path":"./themes/DarkAtom/teams-theme-darkatom.json"
             },
             {
-                "id":"Teams (Light Atom Core)",
+                "id":"TeamsLike (Light Atom Core)",
                 "label":"%TeamsLightAtom%",
                 "uiTheme":"vs",
                 "path":"./themes/LightAtom/teams-theme-lightatom.json"

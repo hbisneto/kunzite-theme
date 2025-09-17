@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Teams Tokens",
+	"name": "TeamsLike Tokens",
 	"colors": {
 
 		"activityBar.background": "#000",
