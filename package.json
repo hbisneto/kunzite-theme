@@ -21,7 +21,7 @@
                 "id":"Kunzite (Dark)",
                 "label":"%KunziteDark%",
                 "uiTheme":"vs-dark",
-                "path":"./themes/Dark/teams-theme-dark.json"
+                "path":"./themes/Dark/kunzite-theme-dark.json"
             },
             {
                 "id":"Kunzite (Light)",
