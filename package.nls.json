@@ -1,9 +1,9 @@
 {
-    "displayName":"TeamsLike Theme",
-    "description":"TeamsLike Theme for Visual Studio Code",
+    "displayName":"Kunzite Theme",
+    "description":"Kunzite Theme for Visual Studio Code",
 
-    "TeamsDark":"TeamsLike Theme (Dark)",
-    "TeamsLight":"TeamsLike Theme (Light)",
-    "TeamsDarkAtom": "TeamsLike Theme (Dark Atom Core)",
-    "TeamsLightAtom": "TeamsLike Theme (Light Atom Core)"
+    "KunziteDark":"Kunzite Theme (Dark)",
+    "KunziteLight":"Kunzite Theme (Light)",
+    "KunziteDarkAtom": "Kunzite Theme (Dark Atom Core)",
+    "KunziteLightAtom": "Kunzite Theme (Light Atom Core)"
 }

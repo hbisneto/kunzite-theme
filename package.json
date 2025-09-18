@@ -1,5 +1,5 @@
 {
-    "name":"theme-teams",
+    "name":"theme-kunzite",
     "displayName":"%displayName%",
     "description":"%description%",
     "categories":["Themes"],
@@ -18,29 +18,29 @@
         "themes":
         [
             {
-                "id":"TeamsLike (Dark)",
-                "label":"%TeamsDark%",
+                "id":"Kunzite (Dark)",
+                "label":"%KunziteDark%",
                 "uiTheme":"vs-dark",
                 "path":"./themes/Dark/teams-theme-dark.json"
             },
             {
-                "id":"TeamsLike (Light)",
-                "label":"%TeamsLight%",
+                "id":"Kunzite (Light)",
+                "label":"%KunziteLight%",
                 "uiTheme":"vs",
-                "path":"./themes/Light/teams-theme-light.json"
+                "path":"./themes/Light/kunzite-theme-light.json"
             },
 
             {
-                "id":"TeamsLike (Dark Atom Core)",
-                "label":"%TeamsDarkAtom%",
+                "id":"Kunzite (Dark Atom Core)",
+                "label":"%KunziteDarkAtom%",
                 "uiTheme":"vs-dark",
-                "path":"./themes/DarkAtom/teams-theme-darkatom.json"
+                "path":"./themes/DarkAtom/kunzite-theme-darkatom.json"
             },
             {
-                "id":"TeamsLike (Light Atom Core)",
-                "label":"%TeamsLightAtom%",
+                "id":"Kunzite (Light Atom Core)",
+                "label":"%KunziteLightAtom%",
                 "uiTheme":"vs",
-                "path":"./themes/LightAtom/teams-theme-lightatom.json"
+                "path":"./themes/LightAtom/kunzite-theme-lightatom.json"
             }
         ]
     },
@@ -48,6 +48,6 @@
     "repository":
     {
         "type":"git",
-        "url":"https://github.com/hbisneto/teams-theme.git"
+        "url":"https://github.com/hbisneto/kunzite-theme.git"
     }
 }
