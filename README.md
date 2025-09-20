@@ -1,47 +1,24 @@
-# Teams Theme
+# Kunzite Theme
 
-Teams theme brings Microsoft Teams to Visual Studio Code.
+Kunzite is a rare and captivating gemstone, first discovered in California in the early 1900s and named after gemologist George Frederick Kunz. Belonging to the spodumene family, it is cherished for its delicate shades of pink to lilac, created by traces of manganese within its crystal structure. One of its most striking features is its pleochroism — the ability to reveal different tones of color when viewed from different angles, shifting between soft pink, violet, and nearly colorless hues.
 
-![Teams for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/hbisneto.github.io/main/teams-theme/banner.png)
+Found in regions such as Afghanistan, Brazil, Madagascar, and the United States, Kunzite is often called the “evening stone” because its gentle glow seems to come alive under softer light. It represents calmness, inspiration, and subtle beauty — qualities that make it a perfect muse for a theme designed to bring harmony and focus to your coding environment.
+
+<br>
+
+![Kunzite Theme for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/hbisneto.github.io/main/teams-theme/banner.png)
 
 ## Available Themes
 
-- Teams Theme (Dark)
-- Teams Theme (Dark Atom Core)
-- Teams Theme (Light)
-- Teams Theme (Light Atom Core)
+- Kunzite Theme (Dark)
+- Kunzite Theme (Dark Atom Core)
+- Kunzite Theme (Light)
+- Kunzite Theme (Light Atom Core)
 
 ## Contribute
 
-Send your feedback about the themes. Any issue can be reported and opened directly from [repository](https://github.com/hbisneto/teams-theme)
+Send your feedback about the themes. Any issue can be reported and opened directly from [repository](https://github.com/hbisneto/kunzite-theme)
 
 #
 
-### Update History
-
-> **Version 1.0.1:**
-> > **News:**
-> ><br> - Chages in **ActivityBar** colors
-
-#
-
-> **Version 1.0.2:**
-> > **News:**
-> ><br>  - Changed **Tabs** color when is active or inactive for all themes in the package
-> ><br> - Changed line highlight when text is selected in the editor
-> ><br> - Soft change in **ActivityBar** when menu is not selected
-> ><br> - Changes applied in all themes inside this package (Light and Dark)
-
-#
-
-> **Version 1.0.3:**
-> > **News: (Light/Dark Theme)**
-> ><br> - Chages in **"editor.selectionBackground"**
-> ><br> - Chages in **"editorHoverWidget.background"**
-> ><br> - Chages in **"editorLink.activeForeground"**
-> ><br> - Chages in **"editor.hoverHighlightBackground"**
-> ><br> - Chages in **"editor.selectionHighlightBackground"**
-
-#
-
-Copyright © 2022 Heitor Bisneto. All rights reserved.
+Copyright © 2022-2025 Heitor Bisneto. All rights reserved.
