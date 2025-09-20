@@ -6,7 +6,7 @@ Found in regions such as Afghanistan, Brazil, Madagascar, and the United States,
 
 <br>
 
-![Kunzite Theme for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/hbisneto.github.io/main/teams-theme/banner.png)
+![Kunzite Theme for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/kunzite-theme/refs/heads/MSFTEmailChange/assets/banner.png)
 
 ## Available Themes
 
